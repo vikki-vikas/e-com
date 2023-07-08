@@ -4,6 +4,8 @@ const approuter = require('./src/routes')
 const app = express()
 const mysql = require("mysql2")
 const db = require("./models")
+var cors = require('cors')
+
 
 app.use(function(req, res, next) {
     res.setHeader('Access-Control-Allow-Origin', '*');
@@ -12,6 +14,10 @@ app.use(function(req, res, next) {
     res.setHeader('Access-Control-Allow-Credentials', true);
     next();
 });
+
+app.use(cors())
+
+app.use('/assets/Images',express.static('./assets/Images'))
 
 app.use(bodyparser.json())
 

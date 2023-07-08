@@ -30,13 +30,13 @@ const appToken = {
 
     async checkAuthenticate(req,res,next){
         try{
-            console.log('middleware')
+            // console.log('middleware')
             if(req.headers.token)
             {
              const decodeddata = await appToken.verifyToken(req.headers.token)
              if(decodeddata)
              {
-                console.log(decodeddata)
+                console.log('desc',decodeddata)
               next()
              }else{
               res.status(404).json({"message":'login to access'})

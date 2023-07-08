@@ -1,5 +1,5 @@
 module.exports = (sequelize,DataTypes) => {
-    const SalesPerson = sequelize.define("Sales_person",{
+    const SalesPerson = sequelize.define("SalesPerson",{
         firstName : {
             type : DataTypes.STRING,
             allowNull:false,
@@ -15,7 +15,13 @@ module.exports = (sequelize,DataTypes) => {
             }
         },
         location_id : {
-            type : DataTypes.INTEGER,
+            type : DataTypes.STRING,
+            validate:{
+                notEmpty:true
+            }
+        },
+        areaManager_id : {
+            type : DataTypes.STRING,
             validate:{
                 notEmpty:true
             }
@@ -34,12 +40,32 @@ module.exports = (sequelize,DataTypes) => {
                 notEmpty:true
             }
         },
+        password : {
+            type : DataTypes.STRING,
+            allowNull:false,
+            validate:{
+                notEmpty:true
+            }
+        },
+        description : {
+            type : DataTypes.STRING,
+        },
         status : {
             type : DataTypes.STRING,
             allowNull:false,
             validate:{
                 notEmpty:true
             }
+        },
+        online : {
+            type : DataTypes.STRING,
+            allowNull:false,
+            validate:{
+                notEmpty:true
+            }
+        },
+        location : {
+            type : DataTypes.STRING
         },
 
     })

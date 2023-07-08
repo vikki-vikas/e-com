@@ -5,7 +5,11 @@
     "database": "e-com",
     "host": "localhost",
     "dialect": "mysql",
-    "port":3308
+    "port":3308,
+    "dialectOptions": {
+      "useUTC": false
+    },
+    "timezone": "+05:30"
   },
   "test": {
     "username": "root",
@@ -19,6 +23,10 @@
     "password": null,
     "database": "database_production",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "dialectOptions": {
+      "useUTC": false
+    },
+    "timezone": "+05:30"
   }
 }

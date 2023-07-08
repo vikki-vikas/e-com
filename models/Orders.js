@@ -1,49 +1,66 @@
 module.exports = (sequelize,DataTypes) => {
-    const Location = sequelize.define("Location",{
-        location_name : {
+    const Orders = sequelize.define("Orders",{
+        product_id : {
             type : DataTypes.STRING,
             allowNull:false,
-            unique : true,
             validate:{
                 notEmpty:true
             }
         },
-        distict : {
+        category_id : {
             type : DataTypes.STRING,
+            allowNull:false,
             validate:{
                 notEmpty:true
             }
         },
-        city : {
+        sales_person_id : {
             type : DataTypes.STRING,
+            allowNull:false,
             validate:{
                 notEmpty:true
             }
         },
-        landmark : {
+        manager_id : {
             type : DataTypes.STRING,
+            allowNull:false,
             validate:{
                 notEmpty:true
             }
         },
-        description : {
+        store_id : {
             type : DataTypes.STRING,
+            allowNull:false,
+            validate:{
+                notEmpty:true
+            }
         },
-        state : {
+        location_id : {
             type : DataTypes.STRING,
+            allowNull:false,
+            validate:{
+                notEmpty:true
+            }
+        },
+        quantity : {
+            type : DataTypes.STRING,
+            allowNull:false,
             validate:{
                 notEmpty:true
             }
         },
         status : {
-            type : DataTypes.BOOLEAN,
+            type : DataTypes.STRING,
             allowNull:false,
             validate:{
                 notEmpty:true
             }
         },
+        note : {
+            type : DataTypes.STRING,
+        },
 
     })
 
-    return Location;
+    return Orders;
 }

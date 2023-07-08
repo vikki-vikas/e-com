@@ -1,0 +1,4815 @@
+%YAML 1.1
+---
+# e-com.categories
+-
+  id: 9
+  category_name: "cat1"
+  image: "assets\\Images\\1688318036968.jpeg"
+  status: 1
+  createdAt: "2023-07-02 17:13:56"
+  updatedAt: "2023-07-02 17:13:56"
+-
+  id: 10
+  category_name: "test validation"
+  image: "assets\\Images\\1688329111453.jpeg"
+  status: 1
+  createdAt: "2023-07-02 20:18:31"
+  updatedAt: "2023-07-02 20:18:31"
+# e-com.cities
+-
+  id: 1
+  state_name: "state_name"
+  city: "city"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 2
+  state_name: "Andaman Nicobar"
+  city: "Nicobar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 3
+  state_name: "Andaman Nicobar"
+  city: "North Middle Andaman"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 4
+  state_name: "Andaman Nicobar"
+  city: "South Andaman"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 5
+  state_name: "Andhra Pradesh"
+  city: "Anantapur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 6
+  state_name: "Andhra Pradesh"
+  city: "Chittoor"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 7
+  state_name: "Andhra Pradesh"
+  city: "East Godavari"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 8
+  state_name: "Andhra Pradesh"
+  city: "Alluri Sitarama Raju"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 9
+  state_name: "Andhra Pradesh"
+  city: "Anakapalli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 10
+  state_name: "Andhra Pradesh"
+  city: "Annamaya"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 11
+  state_name: "Andhra Pradesh"
+  city: "Bapatla"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 12
+  state_name: "Andhra Pradesh"
+  city: "Eluru"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 13
+  state_name: "Andhra Pradesh"
+  city: "Guntur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 14
+  state_name: "Andhra Pradesh"
+  city: "Kadapa"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 15
+  state_name: "Andhra Pradesh"
+  city: "Kakinada "
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 16
+  state_name: "Andhra Pradesh"
+  city: "Konaseema"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 17
+  state_name: "Andhra Pradesh"
+  city: "Krishna"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 18
+  state_name: "Andhra Pradesh"
+  city: "Kurnool"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 19
+  state_name: "Andhra Pradesh"
+  city: "Manyam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 20
+  state_name: "Andhra Pradesh"
+  city: "N T Rama Rao"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 21
+  state_name: "Andhra Pradesh"
+  city: "Nandyal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 22
+  state_name: "Andhra Pradesh"
+  city: "Nellore"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 23
+  state_name: "Andhra Pradesh"
+  city: "Palnadu"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 24
+  state_name: "Andhra Pradesh"
+  city: "Prakasam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 25
+  state_name: "Andhra Pradesh"
+  city: "Sri Balaji"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 26
+  state_name: "Andhra Pradesh"
+  city: "Sri Satya Sai"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 27
+  state_name: "Andhra Pradesh"
+  city: "Srikakulam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 28
+  state_name: "Andhra Pradesh"
+  city: "Visakhapatnam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 29
+  state_name: "Andhra Pradesh"
+  city: "Vizianagaram"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 30
+  state_name: "Andhra Pradesh"
+  city: "West Godavari"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 31
+  state_name: "Arunachal Pradesh"
+  city: "Anjaw"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 32
+  state_name: "Arunachal Pradesh"
+  city: "Central Siang"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 33
+  state_name: "Arunachal Pradesh"
+  city: "Changlang"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 34
+  state_name: "Arunachal Pradesh"
+  city: "Dibang Valley"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 35
+  state_name: "Arunachal Pradesh"
+  city: "East Kameng"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 36
+  state_name: "Arunachal Pradesh"
+  city: "East Siang"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 37
+  state_name: "Arunachal Pradesh"
+  city: "Kamle"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 38
+  state_name: "Arunachal Pradesh"
+  city: "Kra Daadi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 39
+  state_name: "Arunachal Pradesh"
+  city: "Kurung Kumey"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 40
+  state_name: "Arunachal Pradesh"
+  city: "Lepa Rada"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 41
+  state_name: "Arunachal Pradesh"
+  city: "Lohit"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 42
+  state_name: "Arunachal Pradesh"
+  city: "Longding"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 43
+  state_name: "Arunachal Pradesh"
+  city: "Lower Dibang Valley"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 44
+  state_name: "Arunachal Pradesh"
+  city: "Lower Siang"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 45
+  state_name: "Arunachal Pradesh"
+  city: "Lower Subansiri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 46
+  state_name: "Arunachal Pradesh"
+  city: "Namsai"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 47
+  state_name: "Arunachal Pradesh"
+  city: "Pakke Kessang"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 48
+  state_name: "Arunachal Pradesh"
+  city: "Papum Pare"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 49
+  state_name: "Arunachal Pradesh"
+  city: "Shi Yomi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 50
+  state_name: "Arunachal Pradesh"
+  city: "Tawang"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 51
+  state_name: "Arunachal Pradesh"
+  city: "Tirap"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 52
+  state_name: "Arunachal Pradesh"
+  city: "Upper Siang"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 53
+  state_name: "Arunachal Pradesh"
+  city: "Upper Subansiri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 54
+  state_name: "Arunachal Pradesh"
+  city: "West Kameng"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 55
+  state_name: "Arunachal Pradesh"
+  city: "West Siang"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 56
+  state_name: "Assam"
+  city: "Baksa"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 57
+  state_name: "Assam"
+  city: "Barpeta"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 58
+  state_name: "Assam"
+  city: "Bongaigaon"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 59
+  state_name: "Assam"
+  city: "Cachar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 60
+  state_name: "Assam"
+  city: "Charaideo"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 61
+  state_name: "Assam"
+  city: "Chirang"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 62
+  state_name: "Assam"
+  city: "Darrang"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 63
+  state_name: "Assam"
+  city: "Dhemaji"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 64
+  state_name: "Assam"
+  city: "Dhubri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 65
+  state_name: "Assam"
+  city: "Dibrugarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 66
+  state_name: "Assam"
+  city: "Dima Hasao"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 67
+  state_name: "Assam"
+  city: "Goalpara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 68
+  state_name: "Assam"
+  city: "Golaghat"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 69
+  state_name: "Assam"
+  city: "Hailakandi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 70
+  state_name: "Assam"
+  city: "Jorhat"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 71
+  state_name: "Assam"
+  city: "Kamrup"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 72
+  state_name: "Assam"
+  city: "Kamrup Metropolitan"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 73
+  state_name: "Assam"
+  city: "Karbi Anglong"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 74
+  state_name: "Assam"
+  city: "Karimganj"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 75
+  state_name: "Assam"
+  city: "Kokrajhar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 76
+  state_name: "Assam"
+  city: "Lakhimpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 77
+  state_name: "Assam"
+  city: "Majuli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 78
+  state_name: "Assam"
+  city: "Morigaon"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 79
+  state_name: "Assam"
+  city: "Nagaon"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 80
+  state_name: "Assam"
+  city: "Nalbari"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 81
+  state_name: "Assam"
+  city: "Sivasagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 82
+  state_name: "Assam"
+  city: "Sonitpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 83
+  state_name: "Assam"
+  city: "South Salmara-Mankachar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 84
+  state_name: "Assam"
+  city: "Tinsukia"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 85
+  state_name: "Assam"
+  city: "Udalguri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 86
+  state_name: "Assam"
+  city: "West Karbi Anglong"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 87
+  state_name: "Bihar"
+  city: "Araria"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 88
+  state_name: "Bihar"
+  city: "Arwal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 89
+  state_name: "Bihar"
+  city: "Aurangabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 90
+  state_name: "Bihar"
+  city: "Banka"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 91
+  state_name: "Bihar"
+  city: "Begusarai"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 92
+  state_name: "Bihar"
+  city: "Bhagalpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 93
+  state_name: "Bihar"
+  city: "Bhojpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 94
+  state_name: "Bihar"
+  city: "Buxar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 95
+  state_name: "Bihar"
+  city: "Darbhanga"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 96
+  state_name: "Bihar"
+  city: "East Champaran"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 97
+  state_name: "Bihar"
+  city: "Gaya"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 98
+  state_name: "Bihar"
+  city: "Gopalganj"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 99
+  state_name: "Bihar"
+  city: "Jamui"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 100
+  state_name: "Bihar"
+  city: "Jehanabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 101
+  state_name: "Bihar"
+  city: "Kaimur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 102
+  state_name: "Bihar"
+  city: "Katihar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 103
+  state_name: "Bihar"
+  city: "Khagaria"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 104
+  state_name: "Bihar"
+  city: "Kishanganj"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 105
+  state_name: "Bihar"
+  city: "Lakhisarai"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 106
+  state_name: "Bihar"
+  city: "Madhepura"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 107
+  state_name: "Bihar"
+  city: "Madhubani"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 108
+  state_name: "Bihar"
+  city: "Munger"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 109
+  state_name: "Bihar"
+  city: "Muzaffarpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 110
+  state_name: "Bihar"
+  city: "Nalanda"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 111
+  state_name: "Bihar"
+  city: "Nawada"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 112
+  state_name: "Bihar"
+  city: "Patna"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 113
+  state_name: "Bihar"
+  city: "Purnia"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 114
+  state_name: "Bihar"
+  city: "Rohtas"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 115
+  state_name: "Bihar"
+  city: "Saharsa"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 116
+  state_name: "Bihar"
+  city: "Samastipur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 117
+  state_name: "Bihar"
+  city: "Saran"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 118
+  state_name: "Bihar"
+  city: "Sheikhpura"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 119
+  state_name: "Bihar"
+  city: "Sheohar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 120
+  state_name: "Bihar"
+  city: "Sitamarhi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 121
+  state_name: "Bihar"
+  city: "Siwan"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 122
+  state_name: "Bihar"
+  city: "Supaul"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 123
+  state_name: "Bihar"
+  city: "Vaishali"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 124
+  state_name: "Bihar"
+  city: "West Champaran"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 125
+  state_name: "Chandigarh"
+  city: "Chandigarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 126
+  state_name: "Chhattisgarh"
+  city: "Balod"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 127
+  state_name: "Chhattisgarh"
+  city: "Baloda Bazar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 128
+  state_name: "Chhattisgarh"
+  city: "Balrampur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 129
+  state_name: "Chhattisgarh"
+  city: "Bastar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 130
+  state_name: "Chhattisgarh"
+  city: "Bemetara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 131
+  state_name: "Chhattisgarh"
+  city: "Bijapur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 132
+  state_name: "Chhattisgarh"
+  city: "Bilaspur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 133
+  state_name: "Chhattisgarh"
+  city: "Dantewada"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 134
+  state_name: "Chhattisgarh"
+  city: "Dhamtari"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 135
+  state_name: "Chhattisgarh"
+  city: "Durg"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 136
+  state_name: "Chhattisgarh"
+  city: "Gariaband"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 137
+  state_name: "Chhattisgarh"
+  city: "Gaurela Pendra Marwahi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 138
+  state_name: "Chhattisgarh"
+  city: "Janjgir Champa"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 139
+  state_name: "Chhattisgarh"
+  city: "Jashpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 140
+  state_name: "Chhattisgarh"
+  city: "Kabirdham"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 141
+  state_name: "Chhattisgarh"
+  city: "Kanker"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 142
+  state_name: "Chhattisgarh"
+  city: "Khairagarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 143
+  state_name: "Chhattisgarh"
+  city: "Kondagaon"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 144
+  state_name: "Chhattisgarh"
+  city: "Korba"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 145
+  state_name: "Chhattisgarh"
+  city: "Koriya"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 146
+  state_name: "Chhattisgarh"
+  city: "Mahasamund"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 147
+  state_name: "Chhattisgarh"
+  city: "Manendragarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 148
+  state_name: "Chhattisgarh"
+  city: "Mohla Manpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 149
+  state_name: "Chhattisgarh"
+  city: "Mungeli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 150
+  state_name: "Chhattisgarh"
+  city: "Narayanpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 151
+  state_name: "Chhattisgarh"
+  city: "Raigarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 152
+  state_name: "Chhattisgarh"
+  city: "Raipur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 153
+  state_name: "Chhattisgarh"
+  city: "Rajnandgaon"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 154
+  state_name: "Chhattisgarh"
+  city: "Sakti"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 155
+  state_name: "Chhattisgarh"
+  city: "Sarangarh Bilaigarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 156
+  state_name: "Chhattisgarh"
+  city: "Sukma"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 157
+  state_name: "Chhattisgarh"
+  city: "Surajpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 158
+  state_name: "Chhattisgarh"
+  city: "Surguja"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 159
+  state_name: "Dadra and Nagar Haveli and Daman and Diu"
+  city: "Dadra and Nagar Haveli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 160
+  state_name: "Dadra and Nagar Haveli and Daman and Diu"
+  city: "Daman"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 161
+  state_name: "Dadra and Nagar Haveli and Daman and Diu"
+  city: "Diu"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 162
+  state_name: "Delhi"
+  city: "Central Delhi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 163
+  state_name: "Delhi"
+  city: "East Delhi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 164
+  state_name: "Delhi"
+  city: "New Delhi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 165
+  state_name: "Delhi"
+  city: "North Delhi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 166
+  state_name: "Delhi"
+  city: "North East Delhi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 167
+  state_name: "Delhi"
+  city: "North West Delhi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 168
+  state_name: "Delhi"
+  city: "Shahdara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 169
+  state_name: "Delhi"
+  city: "South Delhi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 170
+  state_name: "Delhi"
+  city: "South East Delhi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 171
+  state_name: "Delhi"
+  city: "South West Delhi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 172
+  state_name: "Delhi"
+  city: "West Delhi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 173
+  state_name: "Goa"
+  city: "North Goa"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 174
+  state_name: "Goa"
+  city: "South Goa"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 175
+  state_name: "Gujarat"
+  city: "Ahmedabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 176
+  state_name: "Gujarat"
+  city: "Amreli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 177
+  state_name: "Gujarat"
+  city: "Anand"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 178
+  state_name: "Gujarat"
+  city: "Aravalli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 179
+  state_name: "Gujarat"
+  city: "Banaskantha"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 180
+  state_name: "Gujarat"
+  city: "Bharuch"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 181
+  state_name: "Gujarat"
+  city: "Bhavnagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 182
+  state_name: "Gujarat"
+  city: "Botad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 183
+  state_name: "Gujarat"
+  city: "Chhota Udaipur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 184
+  state_name: "Gujarat"
+  city: "Dahod"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 185
+  state_name: "Gujarat"
+  city: "Dang"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 186
+  state_name: "Gujarat"
+  city: "Devbhoomi Dwarka"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 187
+  state_name: "Gujarat"
+  city: "Gandhinagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 188
+  state_name: "Gujarat"
+  city: "Gir Somnath"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 189
+  state_name: "Gujarat"
+  city: "Jamnagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 190
+  state_name: "Gujarat"
+  city: "Junagadh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 191
+  state_name: "Gujarat"
+  city: "Kheda"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 192
+  state_name: "Gujarat"
+  city: "Kutch"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 193
+  state_name: "Gujarat"
+  city: "Mahisagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 194
+  state_name: "Gujarat"
+  city: "Mehsana"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 195
+  state_name: "Gujarat"
+  city: "Morbi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 196
+  state_name: "Gujarat"
+  city: "Narmada"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 197
+  state_name: "Gujarat"
+  city: "Navsari"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 198
+  state_name: "Gujarat"
+  city: "Panchmahal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 199
+  state_name: "Gujarat"
+  city: "Patan"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 200
+  state_name: "Gujarat"
+  city: "Porbandar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 201
+  state_name: "Gujarat"
+  city: "Rajkot"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 202
+  state_name: "Gujarat"
+  city: "Sabarkantha"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 203
+  state_name: "Gujarat"
+  city: "Surat"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 204
+  state_name: "Gujarat"
+  city: "Surendranagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 205
+  state_name: "Gujarat"
+  city: "Tapi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 206
+  state_name: "Gujarat"
+  city: "Vadodara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 207
+  state_name: "Gujarat"
+  city: "Valsad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 208
+  state_name: "Haryana"
+  city: "Ambala"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 209
+  state_name: "Haryana"
+  city: "Bhiwani"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 210
+  state_name: "Haryana"
+  city: "Charkhi Dadri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 211
+  state_name: "Haryana"
+  city: "Faridabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 212
+  state_name: "Haryana"
+  city: "Fatehabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 213
+  state_name: "Haryana"
+  city: "Gurugram"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 214
+  state_name: "Haryana"
+  city: "Hisar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 215
+  state_name: "Haryana"
+  city: "Jhajjar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 216
+  state_name: "Haryana"
+  city: "Jind"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 217
+  state_name: "Haryana"
+  city: "Kaithal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 218
+  state_name: "Haryana"
+  city: "Karnal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 219
+  state_name: "Haryana"
+  city: "Kurukshetra"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 220
+  state_name: "Haryana"
+  city: "Mahendragarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 221
+  state_name: "Haryana"
+  city: "Mewat"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 222
+  state_name: "Haryana"
+  city: "Palwal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 223
+  state_name: "Haryana"
+  city: "Panchkula"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 224
+  state_name: "Haryana"
+  city: "Panipat"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 225
+  state_name: "Haryana"
+  city: "Rewari"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 226
+  state_name: "Haryana"
+  city: "Rohtak"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 227
+  state_name: "Haryana"
+  city: "Sirsa"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 228
+  state_name: "Haryana"
+  city: "Sonipat"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 229
+  state_name: "Haryana"
+  city: "Yamunanagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 230
+  state_name: "Himachal Pradesh"
+  city: "Bilaspur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 231
+  state_name: "Himachal Pradesh"
+  city: "Chamba"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 232
+  state_name: "Himachal Pradesh"
+  city: "Hamirpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 233
+  state_name: "Himachal Pradesh"
+  city: "Kangra"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 234
+  state_name: "Himachal Pradesh"
+  city: "Kinnaur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 235
+  state_name: "Himachal Pradesh"
+  city: "Kullu"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 236
+  state_name: "Himachal Pradesh"
+  city: "Lahaul Spiti"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 237
+  state_name: "Himachal Pradesh"
+  city: "Mandi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 238
+  state_name: "Himachal Pradesh"
+  city: "Shimla"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 239
+  state_name: "Himachal Pradesh"
+  city: "Sirmaur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 240
+  state_name: "Himachal Pradesh"
+  city: "Solan"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 241
+  state_name: "Himachal Pradesh"
+  city: "Una"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 242
+  state_name: "Jammu Kashmir"
+  city: "Anantnag"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 243
+  state_name: "Jammu Kashmir"
+  city: "Bandipora"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 244
+  state_name: "Jammu Kashmir"
+  city: "Baramulla"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 245
+  state_name: "Jammu Kashmir"
+  city: "Budgam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 246
+  state_name: "Jammu Kashmir"
+  city: "Doda"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 247
+  state_name: "Jammu Kashmir"
+  city: "Ganderbal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 248
+  state_name: "Jammu Kashmir"
+  city: "Jammu"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 249
+  state_name: "Jammu Kashmir"
+  city: "Kathua"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 250
+  state_name: "Jammu Kashmir"
+  city: "Kishtwar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 251
+  state_name: "Jammu Kashmir"
+  city: "Kulgam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 252
+  state_name: "Jammu Kashmir"
+  city: "Kupwara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 253
+  state_name: "Jammu Kashmir"
+  city: "Poonch"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 254
+  state_name: "Jammu Kashmir"
+  city: "Pulwama"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 255
+  state_name: "Jammu Kashmir"
+  city: "Rajouri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 256
+  state_name: "Jammu Kashmir"
+  city: "Ramban"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 257
+  state_name: "Jammu Kashmir"
+  city: "Reasi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 258
+  state_name: "Jammu Kashmir"
+  city: "Samba"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 259
+  state_name: "Jammu Kashmir"
+  city: "Shopian"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 260
+  state_name: "Jammu Kashmir"
+  city: "Srinagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 261
+  state_name: "Jammu Kashmir"
+  city: "Udhampur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 262
+  state_name: "Jharkhand"
+  city: "Bokaro"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 263
+  state_name: "Jharkhand"
+  city: "Chatra"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 264
+  state_name: "Jharkhand"
+  city: "Deoghar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 265
+  state_name: "Jharkhand"
+  city: "Dhanbad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 266
+  state_name: "Jharkhand"
+  city: "Dumka"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 267
+  state_name: "Jharkhand"
+  city: "East Singhbhum"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 268
+  state_name: "Jharkhand"
+  city: "Garhwa"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 269
+  state_name: "Jharkhand"
+  city: "Giridih"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 270
+  state_name: "Jharkhand"
+  city: "Godda"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 271
+  state_name: "Jharkhand"
+  city: "Gumla"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 272
+  state_name: "Jharkhand"
+  city: "Hazaribagh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 273
+  state_name: "Jharkhand"
+  city: "Jamtara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 274
+  state_name: "Jharkhand"
+  city: "Khunti"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 275
+  state_name: "Jharkhand"
+  city: "Koderma"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 276
+  state_name: "Jharkhand"
+  city: "Latehar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 277
+  state_name: "Jharkhand"
+  city: "Lohardaga"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 278
+  state_name: "Jharkhand"
+  city: "Pakur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 279
+  state_name: "Jharkhand"
+  city: "Palamu"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 280
+  state_name: "Jharkhand"
+  city: "Ramgarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 281
+  state_name: "Jharkhand"
+  city: "Ranchi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 282
+  state_name: "Jharkhand"
+  city: "Sahebganj"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 283
+  state_name: "Jharkhand"
+  city: "Seraikela Kharsawan"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 284
+  state_name: "Jharkhand"
+  city: "Simdega"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 285
+  state_name: "Jharkhand"
+  city: "West Singhbhum"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 286
+  state_name: "Karnataka"
+  city: "Bagalkot"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 287
+  state_name: "Karnataka"
+  city: "Bangalore Rural"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 288
+  state_name: "Karnataka"
+  city: "Bangalore Urban"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 289
+  state_name: "Karnataka"
+  city: "Belgaum"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 290
+  state_name: "Karnataka"
+  city: "Bellary"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 291
+  state_name: "Karnataka"
+  city: "Bidar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 292
+  state_name: "Karnataka"
+  city: "Chamarajanagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 293
+  state_name: "Karnataka"
+  city: "Chikkaballapur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 294
+  state_name: "Karnataka"
+  city: "Chikkamagaluru"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 295
+  state_name: "Karnataka"
+  city: "Chitradurga"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 296
+  state_name: "Karnataka"
+  city: "Dakshina Kannada"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 297
+  state_name: "Karnataka"
+  city: "Davanagere"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 298
+  state_name: "Karnataka"
+  city: "Dharwad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 299
+  state_name: "Karnataka"
+  city: "Gadag"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 300
+  state_name: "Karnataka"
+  city: "Gulbarga"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 301
+  state_name: "Karnataka"
+  city: "Hassan"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 302
+  state_name: "Karnataka"
+  city: "Haveri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 303
+  state_name: "Karnataka"
+  city: "Kodagu"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 304
+  state_name: "Karnataka"
+  city: "Kolar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 305
+  state_name: "Karnataka"
+  city: "Koppal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 306
+  state_name: "Karnataka"
+  city: "Mandya"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 307
+  state_name: "Karnataka"
+  city: "Mysore"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 308
+  state_name: "Karnataka"
+  city: "Raichur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 309
+  state_name: "Karnataka"
+  city: "Ramanagara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 310
+  state_name: "Karnataka"
+  city: "Shimoga"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 311
+  state_name: "Karnataka"
+  city: "Tumkur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 312
+  state_name: "Karnataka"
+  city: "Udupi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 313
+  state_name: "Karnataka"
+  city: "Uttara Kannada"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 314
+  state_name: "Karnataka"
+  city: "Vijayanagara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 315
+  state_name: "Karnataka"
+  city: "Vijayapura "
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 316
+  state_name: "Karnataka"
+  city: "Yadgir"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 317
+  state_name: "Kerala"
+  city: "Alappuzha"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 318
+  state_name: "Kerala"
+  city: "Ernakulam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 319
+  state_name: "Kerala"
+  city: "Idukki"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 320
+  state_name: "Kerala"
+  city: "Kannur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 321
+  state_name: "Kerala"
+  city: "Kasaragod"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 322
+  state_name: "Kerala"
+  city: "Kollam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 323
+  state_name: "Kerala"
+  city: "Kottayam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 324
+  state_name: "Kerala"
+  city: "Kozhikode"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 325
+  state_name: "Kerala"
+  city: "Malappuram"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 326
+  state_name: "Kerala"
+  city: "Palakkad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 327
+  state_name: "Kerala"
+  city: "Pathanamthitta"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 328
+  state_name: "Kerala"
+  city: "Thiruvananthapuram"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 329
+  state_name: "Kerala"
+  city: "Thrissur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 330
+  state_name: "Kerala"
+  city: "Wayanad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 331
+  state_name: "Ladakh"
+  city: "Kargil"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 332
+  state_name: "Ladakh"
+  city: "Leh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 333
+  state_name: "Lakshadweep"
+  city: "Lakshadweep"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 334
+  state_name: "Madhya Pradesh"
+  city: "Agar Malwa"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 335
+  state_name: "Madhya Pradesh"
+  city: "Alirajpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 336
+  state_name: "Madhya Pradesh"
+  city: "Anuppur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 337
+  state_name: "Madhya Pradesh"
+  city: "Ashoknagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 338
+  state_name: "Madhya Pradesh"
+  city: "Balaghat"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 339
+  state_name: "Madhya Pradesh"
+  city: "Barwani"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 340
+  state_name: "Madhya Pradesh"
+  city: "Betul"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 341
+  state_name: "Madhya Pradesh"
+  city: "Bhind"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 342
+  state_name: "Madhya Pradesh"
+  city: "Bhopal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 343
+  state_name: "Madhya Pradesh"
+  city: "Burhanpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 344
+  state_name: "Madhya Pradesh"
+  city: "Chachaura"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 345
+  state_name: "Madhya Pradesh"
+  city: "Chhatarpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 346
+  state_name: "Madhya Pradesh"
+  city: "Chhindwara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 347
+  state_name: "Madhya Pradesh"
+  city: "Damoh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 348
+  state_name: "Madhya Pradesh"
+  city: "Datia"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 349
+  state_name: "Madhya Pradesh"
+  city: "Dewas"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 350
+  state_name: "Madhya Pradesh"
+  city: "Dhar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 351
+  state_name: "Madhya Pradesh"
+  city: "Dindori"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 352
+  state_name: "Madhya Pradesh"
+  city: "Guna"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 353
+  state_name: "Madhya Pradesh"
+  city: "Gwalior"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 354
+  state_name: "Madhya Pradesh"
+  city: "Harda"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 355
+  state_name: "Madhya Pradesh"
+  city: "Hoshangabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 356
+  state_name: "Madhya Pradesh"
+  city: "Indore"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 357
+  state_name: "Madhya Pradesh"
+  city: "Jabalpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 358
+  state_name: "Madhya Pradesh"
+  city: "Jhabua"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 359
+  state_name: "Madhya Pradesh"
+  city: "Katni"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 360
+  state_name: "Madhya Pradesh"
+  city: "Khandwa"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 361
+  state_name: "Madhya Pradesh"
+  city: "Khargone"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 362
+  state_name: "Madhya Pradesh"
+  city: "Maihar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 363
+  state_name: "Madhya Pradesh"
+  city: "Mandla"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 364
+  state_name: "Madhya Pradesh"
+  city: "Mandsaur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 365
+  state_name: "Madhya Pradesh"
+  city: "Morena"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 366
+  state_name: "Madhya Pradesh"
+  city: "Nagda"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 367
+  state_name: "Madhya Pradesh"
+  city: "Narsinghpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 368
+  state_name: "Madhya Pradesh"
+  city: "Neemuch"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 369
+  state_name: "Madhya Pradesh"
+  city: "Niwari"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 370
+  state_name: "Madhya Pradesh"
+  city: "Panna"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 371
+  state_name: "Madhya Pradesh"
+  city: "Raisen"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 372
+  state_name: "Madhya Pradesh"
+  city: "Rajgarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 373
+  state_name: "Madhya Pradesh"
+  city: "Ratlam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 374
+  state_name: "Madhya Pradesh"
+  city: "Rewa"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 375
+  state_name: "Madhya Pradesh"
+  city: "Sagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 376
+  state_name: "Madhya Pradesh"
+  city: "Satna"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 377
+  state_name: "Madhya Pradesh"
+  city: "Sehore"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 378
+  state_name: "Madhya Pradesh"
+  city: "Seoni"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 379
+  state_name: "Madhya Pradesh"
+  city: "Shahdol"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 380
+  state_name: "Madhya Pradesh"
+  city: "Shajapur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 381
+  state_name: "Madhya Pradesh"
+  city: "Sheopur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 382
+  state_name: "Madhya Pradesh"
+  city: "Shivpuri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 383
+  state_name: "Madhya Pradesh"
+  city: "Sidhi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 384
+  state_name: "Madhya Pradesh"
+  city: "Singrauli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 385
+  state_name: "Madhya Pradesh"
+  city: "Tikamgarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 386
+  state_name: "Madhya Pradesh"
+  city: "Ujjain"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 387
+  state_name: "Madhya Pradesh"
+  city: "Umaria"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 388
+  state_name: "Madhya Pradesh"
+  city: "Vidisha"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 389
+  state_name: "Maharashtra"
+  city: "Ahmednagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 390
+  state_name: "Maharashtra"
+  city: "Akola"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 391
+  state_name: "Maharashtra"
+  city: "Amravati"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 392
+  state_name: "Maharashtra"
+  city: "Aurangabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 393
+  state_name: "Maharashtra"
+  city: "Beed"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 394
+  state_name: "Maharashtra"
+  city: "Bhandara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 395
+  state_name: "Maharashtra"
+  city: "Buldhana"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 396
+  state_name: "Maharashtra"
+  city: "Chandrapur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 397
+  state_name: "Maharashtra"
+  city: "Dhule"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 398
+  state_name: "Maharashtra"
+  city: "Gadchiroli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 399
+  state_name: "Maharashtra"
+  city: "Gondia"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 400
+  state_name: "Maharashtra"
+  city: "Hingoli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 401
+  state_name: "Maharashtra"
+  city: "Jalgaon"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 402
+  state_name: "Maharashtra"
+  city: "Jalna"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 403
+  state_name: "Maharashtra"
+  city: "Kolhapur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 404
+  state_name: "Maharashtra"
+  city: "Latur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 405
+  state_name: "Maharashtra"
+  city: "Mumbai City"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 406
+  state_name: "Maharashtra"
+  city: "Mumbai Suburban"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 407
+  state_name: "Maharashtra"
+  city: "Nagpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 408
+  state_name: "Maharashtra"
+  city: "Nanded"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 409
+  state_name: "Maharashtra"
+  city: "Nandurbar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 410
+  state_name: "Maharashtra"
+  city: "Nashik"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 411
+  state_name: "Maharashtra"
+  city: "Osmanabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 412
+  state_name: "Maharashtra"
+  city: "Palghar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 413
+  state_name: "Maharashtra"
+  city: "Parbhani"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 414
+  state_name: "Maharashtra"
+  city: "Pune"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 415
+  state_name: "Maharashtra"
+  city: "Raigad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 416
+  state_name: "Maharashtra"
+  city: "Ratnagiri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 417
+  state_name: "Maharashtra"
+  city: "Sangli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 418
+  state_name: "Maharashtra"
+  city: "Satara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 419
+  state_name: "Maharashtra"
+  city: "Sindhudurg"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 420
+  state_name: "Maharashtra"
+  city: "Solapur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 421
+  state_name: "Maharashtra"
+  city: "Thane"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 422
+  state_name: "Maharashtra"
+  city: "Wardha"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 423
+  state_name: "Maharashtra"
+  city: "Washim"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 424
+  state_name: "Maharashtra"
+  city: "Yavatmal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 425
+  state_name: "Manipur"
+  city: "Bishnupur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 426
+  state_name: "Manipur"
+  city: "Chandel"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 427
+  state_name: "Manipur"
+  city: "Churachandpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 428
+  state_name: "Manipur"
+  city: "Imphal East"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 429
+  state_name: "Manipur"
+  city: "Imphal West"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 430
+  state_name: "Manipur"
+  city: "Jiribam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 431
+  state_name: "Manipur"
+  city: "Kakching"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 432
+  state_name: "Manipur"
+  city: "Kamjong"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 433
+  state_name: "Manipur"
+  city: "Kangpokpi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 434
+  state_name: "Manipur"
+  city: "Noney"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 435
+  state_name: "Manipur"
+  city: "Pherzawl"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 436
+  state_name: "Manipur"
+  city: "Senapati"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 437
+  state_name: "Manipur"
+  city: "Tamenglong"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 438
+  state_name: "Manipur"
+  city: "Tengnoupal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 439
+  state_name: "Manipur"
+  city: "Thoubal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 440
+  state_name: "Manipur"
+  city: "Ukhrul"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 441
+  state_name: "Meghalaya"
+  city: "East Garo Hills"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 442
+  state_name: "Meghalaya"
+  city: "East Jaintia Hills"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 443
+  state_name: "Meghalaya"
+  city: "East Khasi Hills"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 444
+  state_name: "Meghalaya"
+  city: "Mairang"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 445
+  state_name: "Meghalaya"
+  city: "North Garo Hills"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 446
+  state_name: "Meghalaya"
+  city: "Ri Bhoi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 447
+  state_name: "Meghalaya"
+  city: "South Garo Hills"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 448
+  state_name: "Meghalaya"
+  city: "South West Garo Hills"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 449
+  state_name: "Meghalaya"
+  city: "South West Khasi Hills"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 450
+  state_name: "Meghalaya"
+  city: "West Garo Hills"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 451
+  state_name: "Meghalaya"
+  city: "West Jaintia Hills"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 452
+  state_name: "Meghalaya"
+  city: "West Khasi Hills"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 453
+  state_name: "Mizoram"
+  city: "Aizawl"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 454
+  state_name: "Mizoram"
+  city: "Champhai"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 455
+  state_name: "Mizoram"
+  city: "Hnahthial"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 456
+  state_name: "Mizoram"
+  city: "Kolasib"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 457
+  state_name: "Mizoram"
+  city: "Khawzawl"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 458
+  state_name: "Mizoram"
+  city: "Lawngtlai"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 459
+  state_name: "Mizoram"
+  city: "Lunglei"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 460
+  state_name: "Mizoram"
+  city: "Mamit"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 461
+  state_name: "Mizoram"
+  city: "Saiha"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 462
+  state_name: "Mizoram"
+  city: "Serchhip"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 463
+  state_name: "Mizoram"
+  city: "Saitual"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 464
+  state_name: "Nagaland"
+  city: "Chumukedima"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 465
+  state_name: "Nagaland"
+  city: "Dimapur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 466
+  state_name: "Nagaland"
+  city: "Kiphire"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 467
+  state_name: "Nagaland"
+  city: "Kohima"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 468
+  state_name: "Nagaland"
+  city: "Longleng"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 469
+  state_name: "Nagaland"
+  city: "Mokokchung"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 470
+  state_name: "Nagaland"
+  city: "Mon"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 471
+  state_name: "Nagaland"
+  city: "Niuland"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 472
+  state_name: "Nagaland"
+  city: "Noklak"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 473
+  state_name: "Nagaland"
+  city: "Peren"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 474
+  state_name: "Nagaland"
+  city: "Phek"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 475
+  state_name: "Nagaland"
+  city: "Shamator"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 476
+  state_name: "Nagaland"
+  city: "Tseminyu"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 477
+  state_name: "Nagaland"
+  city: "Tuensang"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 478
+  state_name: "Nagaland"
+  city: "Wokha"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 479
+  state_name: "Nagaland"
+  city: "Zunheboto"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 480
+  state_name: "Odisha"
+  city: "Angul"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 481
+  state_name: "Odisha"
+  city: "Balangir"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 482
+  state_name: "Odisha"
+  city: "Balasore"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 483
+  state_name: "Odisha"
+  city: "Bargarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 484
+  state_name: "Odisha"
+  city: "Bhadrak"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 485
+  state_name: "Odisha"
+  city: "Boudh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 486
+  state_name: "Odisha"
+  city: "Cuttack"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 487
+  state_name: "Odisha"
+  city: "Debagarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 488
+  state_name: "Odisha"
+  city: "Dhenkanal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 489
+  state_name: "Odisha"
+  city: "Gajapati"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 490
+  state_name: "Odisha"
+  city: "Ganjam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 491
+  state_name: "Odisha"
+  city: "Jagatsinghpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 492
+  state_name: "Odisha"
+  city: "Jajpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 493
+  state_name: "Odisha"
+  city: "Jharsuguda"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 494
+  state_name: "Odisha"
+  city: "Kalahandi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 495
+  state_name: "Odisha"
+  city: "Kandhamal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 496
+  state_name: "Odisha"
+  city: "Kendrapara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 497
+  state_name: "Odisha"
+  city: "Kendujhar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 498
+  state_name: "Odisha"
+  city: "Khordha"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 499
+  state_name: "Odisha"
+  city: "Koraput"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 500
+  state_name: "Odisha"
+  city: "Malkangiri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 501
+  state_name: "Odisha"
+  city: "Mayurbhanj"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 502
+  state_name: "Odisha"
+  city: "Nabarangpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 503
+  state_name: "Odisha"
+  city: "Nayagarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 504
+  state_name: "Odisha"
+  city: "Nuapada"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 505
+  state_name: "Odisha"
+  city: "Puri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 506
+  state_name: "Odisha"
+  city: "Rayagada"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 507
+  state_name: "Odisha"
+  city: "Sambalpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 508
+  state_name: "Odisha"
+  city: "Subarnapur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 509
+  state_name: "Odisha"
+  city: "Sundergarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 510
+  state_name: "Puducherry"
+  city: "Karaikal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 511
+  state_name: "Puducherry"
+  city: "Mahe"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 512
+  state_name: "Puducherry"
+  city: "Puducherry"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 513
+  state_name: "Puducherry"
+  city: "Yanam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 514
+  state_name: "Punjab"
+  city: "Amritsar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 515
+  state_name: "Punjab"
+  city: "Barnala"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 516
+  state_name: "Punjab"
+  city: "Bathinda"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 517
+  state_name: "Punjab"
+  city: "Faridkot"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 518
+  state_name: "Punjab"
+  city: "Fatehgarh Sahib"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 519
+  state_name: "Punjab"
+  city: "Fazilka"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 520
+  state_name: "Punjab"
+  city: "Firozpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 521
+  state_name: "Punjab"
+  city: "Gurdaspur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 522
+  state_name: "Punjab"
+  city: "Hoshiarpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 523
+  state_name: "Punjab"
+  city: "Jalandhar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 524
+  state_name: "Punjab"
+  city: "Kapurthala"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 525
+  state_name: "Punjab"
+  city: "Ludhiana"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 526
+  state_name: "Punjab"
+  city: "Malerkotla"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 527
+  state_name: "Punjab"
+  city: "Mansa"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 528
+  state_name: "Punjab"
+  city: "Moga"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 529
+  state_name: "Punjab"
+  city: "Mohali"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 530
+  state_name: "Punjab"
+  city: "Muktsar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 531
+  state_name: "Punjab"
+  city: "Pathankot"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 532
+  state_name: "Punjab"
+  city: "Patiala"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 533
+  state_name: "Punjab"
+  city: "Rupnagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 534
+  state_name: "Punjab"
+  city: "Sangrur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 535
+  state_name: "Punjab"
+  city: "Shaheed Bhagat Singh Nagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 536
+  state_name: "Punjab"
+  city: "Tarn Taran"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 537
+  state_name: "Rajasthan"
+  city: "Ajmer"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 538
+  state_name: "Rajasthan"
+  city: "Alwar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 539
+  state_name: "Rajasthan"
+  city: "Banswara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 540
+  state_name: "Rajasthan"
+  city: "Baran"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 541
+  state_name: "Rajasthan"
+  city: "Barmer"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 542
+  state_name: "Rajasthan"
+  city: "Bharatpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 543
+  state_name: "Rajasthan"
+  city: "Bhilwara"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 544
+  state_name: "Rajasthan"
+  city: "Bikaner"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 545
+  state_name: "Rajasthan"
+  city: "Bundi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 546
+  state_name: "Rajasthan"
+  city: "Chittorgarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 547
+  state_name: "Rajasthan"
+  city: "Churu"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 548
+  state_name: "Rajasthan"
+  city: "Dausa"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 549
+  state_name: "Rajasthan"
+  city: "Dholpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 550
+  state_name: "Rajasthan"
+  city: "Dungarpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 551
+  state_name: "Rajasthan"
+  city: "Hanumangarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 552
+  state_name: "Rajasthan"
+  city: "Jaipur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 553
+  state_name: "Rajasthan"
+  city: "Jaisalmer"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 554
+  state_name: "Rajasthan"
+  city: "Jalore"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 555
+  state_name: "Rajasthan"
+  city: "Jhalawar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 556
+  state_name: "Rajasthan"
+  city: "Jhunjhunu"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 557
+  state_name: "Rajasthan"
+  city: "Jodhpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 558
+  state_name: "Rajasthan"
+  city: "Karauli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 559
+  state_name: "Rajasthan"
+  city: "Kota"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 560
+  state_name: "Rajasthan"
+  city: "Nagaur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 561
+  state_name: "Rajasthan"
+  city: "Pali"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 562
+  state_name: "Rajasthan"
+  city: "Pratapgarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 563
+  state_name: "Rajasthan"
+  city: "Rajsamand"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 564
+  state_name: "Rajasthan"
+  city: "Sawai Madhopur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 565
+  state_name: "Rajasthan"
+  city: "Sikar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 566
+  state_name: "Rajasthan"
+  city: "Sirohi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 567
+  state_name: "Rajasthan"
+  city: "Sri Ganganagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 568
+  state_name: "Rajasthan"
+  city: "Tonk"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 569
+  state_name: "Rajasthan"
+  city: "Udaipur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 570
+  state_name: "Sikkim"
+  city: "East Sikkim"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 571
+  state_name: "Sikkim"
+  city: "North Sikkim"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 572
+  state_name: "Sikkim"
+  city: "Pakyong"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 573
+  state_name: "Sikkim"
+  city: "Soreng"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 574
+  state_name: "Sikkim"
+  city: "South Sikkim"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 575
+  state_name: "Sikkim"
+  city: "West Sikkim"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 576
+  state_name: "Tamil Nadu"
+  city: "Ariyalur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 577
+  state_name: "Tamil Nadu"
+  city: "Chengalpattu"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 578
+  state_name: "Tamil Nadu"
+  city: "Chennai"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 579
+  state_name: "Tamil Nadu"
+  city: "Coimbatore"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 580
+  state_name: "Tamil Nadu"
+  city: "Cuddalore"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 581
+  state_name: "Tamil Nadu"
+  city: "Dharmapuri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 582
+  state_name: "Tamil Nadu"
+  city: "Dindigul"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 583
+  state_name: "Tamil Nadu"
+  city: "Erode"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 584
+  state_name: "Tamil Nadu"
+  city: "Kallakurichi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 585
+  state_name: "Tamil Nadu"
+  city: "Kanchipuram"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 586
+  state_name: "Tamil Nadu"
+  city: "Kanyakumari"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 587
+  state_name: "Tamil Nadu"
+  city: "Karur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 588
+  state_name: "Tamil Nadu"
+  city: "Krishnagiri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 589
+  state_name: "Tamil Nadu"
+  city: "Madurai"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 590
+  state_name: "Tamil Nadu"
+  city: "Mayiladuthurai "
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 591
+  state_name: "Tamil Nadu"
+  city: "Nagapattinam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 592
+  state_name: "Tamil Nadu"
+  city: "Namakkal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 593
+  state_name: "Tamil Nadu"
+  city: "Nilgiris"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 594
+  state_name: "Tamil Nadu"
+  city: "Perambalur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 595
+  state_name: "Tamil Nadu"
+  city: "Pudukkottai"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 596
+  state_name: "Tamil Nadu"
+  city: "Ramanathapuram"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 597
+  state_name: "Tamil Nadu"
+  city: "Ranipet"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 598
+  state_name: "Tamil Nadu"
+  city: "Salem"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 599
+  state_name: "Tamil Nadu"
+  city: "Sivaganga"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 600
+  state_name: "Tamil Nadu"
+  city: "Tenkasi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 601
+  state_name: "Tamil Nadu"
+  city: "Thanjavur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 602
+  state_name: "Tamil Nadu"
+  city: "Theni"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 603
+  state_name: "Tamil Nadu"
+  city: "Thoothukudi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 604
+  state_name: "Tamil Nadu"
+  city: "Tiruchirappalli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 605
+  state_name: "Tamil Nadu"
+  city: "Tirunelveli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 606
+  state_name: "Tamil Nadu"
+  city: "Tirupattur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 607
+  state_name: "Tamil Nadu"
+  city: "Tiruppur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 608
+  state_name: "Tamil Nadu"
+  city: "Tiruvallur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 609
+  state_name: "Tamil Nadu"
+  city: "Tiruvannamalai"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 610
+  state_name: "Tamil Nadu"
+  city: "Tiruvarur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 611
+  state_name: "Tamil Nadu"
+  city: "Vellore"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 612
+  state_name: "Tamil Nadu"
+  city: "Viluppuram"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 613
+  state_name: "Tamil Nadu"
+  city: "Virudhunagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 614
+  state_name: "Telangana"
+  city: "Adilabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 615
+  state_name: "Telangana"
+  city: "Bhadradri Kothagudem"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 616
+  state_name: "Telangana"
+  city: "Hyderabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 617
+  state_name: "Telangana"
+  city: "Jagtial"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 618
+  state_name: "Telangana"
+  city: "Jangaon"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 619
+  state_name: "Telangana"
+  city: "Jayashankar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 620
+  state_name: "Telangana"
+  city: "Jogulamba"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 621
+  state_name: "Telangana"
+  city: "Kamareddy"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 622
+  state_name: "Telangana"
+  city: "Karimnagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 623
+  state_name: "Telangana"
+  city: "Khammam"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 624
+  state_name: "Telangana"
+  city: "Komaram Bheem"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 625
+  state_name: "Telangana"
+  city: "Mahabubabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 626
+  state_name: "Telangana"
+  city: "Mahbubnagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 627
+  state_name: "Telangana"
+  city: "Mancherial"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 628
+  state_name: "Telangana"
+  city: "Medak"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 629
+  state_name: "Telangana"
+  city: "Medchal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 630
+  state_name: "Telangana"
+  city: "Mulugu"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 631
+  state_name: "Telangana"
+  city: "Nagarkurnool"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 632
+  state_name: "Telangana"
+  city: "Nalgonda"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 633
+  state_name: "Telangana"
+  city: "Narayanpet"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 634
+  state_name: "Telangana"
+  city: "Nirmal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 635
+  state_name: "Telangana"
+  city: "Nizamabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 636
+  state_name: "Telangana"
+  city: "Peddapalli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 637
+  state_name: "Telangana"
+  city: "Rajanna Sircilla"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 638
+  state_name: "Telangana"
+  city: "Ranga Reddy"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 639
+  state_name: "Telangana"
+  city: "Sangareddy"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 640
+  state_name: "Telangana"
+  city: "Siddipet"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 641
+  state_name: "Telangana"
+  city: "Suryapet"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 642
+  state_name: "Telangana"
+  city: "Vikarabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 643
+  state_name: "Telangana"
+  city: "Wanaparthy"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 644
+  state_name: "Telangana"
+  city: "Warangal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 645
+  state_name: "Telangana"
+  city: "Hanamkonda"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 646
+  state_name: "Telangana"
+  city: "Yadadri Bhuvanagiri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 647
+  state_name: "Tripura"
+  city: "Dhalai"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 648
+  state_name: "Tripura"
+  city: "Gomati"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 649
+  state_name: "Tripura"
+  city: "Khowai"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 650
+  state_name: "Tripura"
+  city: "North Tripura"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 651
+  state_name: "Tripura"
+  city: "Sepahijala"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 652
+  state_name: "Tripura"
+  city: "South Tripura"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 653
+  state_name: "Tripura"
+  city: "Unakoti"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 654
+  state_name: "Tripura"
+  city: "West Tripura"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 655
+  state_name: "Uttar Pradesh"
+  city: "Agra"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 656
+  state_name: "Uttar Pradesh"
+  city: "Aligarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 657
+  state_name: "Uttar Pradesh"
+  city: "Ambedkar Nagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 658
+  state_name: "Uttar Pradesh"
+  city: "Amethi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 659
+  state_name: "Uttar Pradesh"
+  city: "Amroha"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 660
+  state_name: "Uttar Pradesh"
+  city: "Auraiya"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 661
+  state_name: "Uttar Pradesh"
+  city: "Ayodhya"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 662
+  state_name: "Uttar Pradesh"
+  city: "Azamgarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 663
+  state_name: "Uttar Pradesh"
+  city: "Baghpat"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 664
+  state_name: "Uttar Pradesh"
+  city: "Bahraich"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 665
+  state_name: "Uttar Pradesh"
+  city: "Ballia"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 666
+  state_name: "Uttar Pradesh"
+  city: "Balrampur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 667
+  state_name: "Uttar Pradesh"
+  city: "Banda"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 668
+  state_name: "Uttar Pradesh"
+  city: "Barabanki"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 669
+  state_name: "Uttar Pradesh"
+  city: "Bareilly"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 670
+  state_name: "Uttar Pradesh"
+  city: "Basti"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 671
+  state_name: "Uttar Pradesh"
+  city: "Bhadohi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 672
+  state_name: "Uttar Pradesh"
+  city: "Bijnor"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 673
+  state_name: "Uttar Pradesh"
+  city: "Budaun"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 674
+  state_name: "Uttar Pradesh"
+  city: "Bulandshahr"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 675
+  state_name: "Uttar Pradesh"
+  city: "Chandauli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 676
+  state_name: "Uttar Pradesh"
+  city: "Chitrakoot"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 677
+  state_name: "Uttar Pradesh"
+  city: "Deoria"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 678
+  state_name: "Uttar Pradesh"
+  city: "Etah"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 679
+  state_name: "Uttar Pradesh"
+  city: "Etawah"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 680
+  state_name: "Uttar Pradesh"
+  city: "Farrukhabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 681
+  state_name: "Uttar Pradesh"
+  city: "Fatehpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 682
+  state_name: "Uttar Pradesh"
+  city: "Firozabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 683
+  state_name: "Uttar Pradesh"
+  city: "Gautam Buddha Nagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 684
+  state_name: "Uttar Pradesh"
+  city: "Ghaziabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 685
+  state_name: "Uttar Pradesh"
+  city: "Ghazipur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 686
+  state_name: "Uttar Pradesh"
+  city: "Gonda"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 687
+  state_name: "Uttar Pradesh"
+  city: "Gorakhpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 688
+  state_name: "Uttar Pradesh"
+  city: "Hamirpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 689
+  state_name: "Uttar Pradesh"
+  city: "Hapur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 690
+  state_name: "Uttar Pradesh"
+  city: "Hardoi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 691
+  state_name: "Uttar Pradesh"
+  city: "Hathras"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 692
+  state_name: "Uttar Pradesh"
+  city: "Jalaun"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 693
+  state_name: "Uttar Pradesh"
+  city: "Jaunpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 694
+  state_name: "Uttar Pradesh"
+  city: "Jhansi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 695
+  state_name: "Uttar Pradesh"
+  city: "Kannauj"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 696
+  state_name: "Uttar Pradesh"
+  city: "Kanpur Dehat"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 697
+  state_name: "Uttar Pradesh"
+  city: "Kanpur Nagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 698
+  state_name: "Uttar Pradesh"
+  city: "Kasganj"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 699
+  state_name: "Uttar Pradesh"
+  city: "Kaushambi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 700
+  state_name: "Uttar Pradesh"
+  city: "Kheri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 701
+  state_name: "Uttar Pradesh"
+  city: "Kushinagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 702
+  state_name: "Uttar Pradesh"
+  city: "Lalitpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 703
+  state_name: "Uttar Pradesh"
+  city: "Lucknow"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 704
+  state_name: "Uttar Pradesh"
+  city: "Maharajganj"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 705
+  state_name: "Uttar Pradesh"
+  city: "Mahoba"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 706
+  state_name: "Uttar Pradesh"
+  city: "Mainpuri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 707
+  state_name: "Uttar Pradesh"
+  city: "Mathura"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 708
+  state_name: "Uttar Pradesh"
+  city: "Mau"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 709
+  state_name: "Uttar Pradesh"
+  city: "Meerut"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 710
+  state_name: "Uttar Pradesh"
+  city: "Mirzapur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 711
+  state_name: "Uttar Pradesh"
+  city: "Moradabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 712
+  state_name: "Uttar Pradesh"
+  city: "Muzaffarnagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 713
+  state_name: "Uttar Pradesh"
+  city: "Pilibhit"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 714
+  state_name: "Uttar Pradesh"
+  city: "Pratapgarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 715
+  state_name: "Uttar Pradesh"
+  city: "Prayagraj"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 716
+  state_name: "Uttar Pradesh"
+  city: "Raebareli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 717
+  state_name: "Uttar Pradesh"
+  city: "Rampur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 718
+  state_name: "Uttar Pradesh"
+  city: "Saharanpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 719
+  state_name: "Uttar Pradesh"
+  city: "Sambhal"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 720
+  state_name: "Uttar Pradesh"
+  city: "Sant Kabir Nagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 721
+  state_name: "Uttar Pradesh"
+  city: "Shahjahanpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 722
+  state_name: "Uttar Pradesh"
+  city: "Shamli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 723
+  state_name: "Uttar Pradesh"
+  city: "Shravasti"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 724
+  state_name: "Uttar Pradesh"
+  city: "Siddharthnagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 725
+  state_name: "Uttar Pradesh"
+  city: "Sitapur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 726
+  state_name: "Uttar Pradesh"
+  city: "Sonbhadra"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 727
+  state_name: "Uttar Pradesh"
+  city: "Sultanpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 728
+  state_name: "Uttar Pradesh"
+  city: "Unnao"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 729
+  state_name: "Uttar Pradesh"
+  city: "Varanasi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 730
+  state_name: "Uttarakhand"
+  city: "Almora"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 731
+  state_name: "Uttarakhand"
+  city: "Bageshwar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 732
+  state_name: "Uttarakhand"
+  city: "Chamoli"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 733
+  state_name: "Uttarakhand"
+  city: "Champawat"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 734
+  state_name: "Uttarakhand"
+  city: "Dehradun"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 735
+  state_name: "Uttarakhand"
+  city: "Haridwar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 736
+  state_name: "Uttarakhand"
+  city: "Nainital"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 737
+  state_name: "Uttarakhand"
+  city: "Pauri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 738
+  state_name: "Uttarakhand"
+  city: "Pithoragarh"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 739
+  state_name: "Uttarakhand"
+  city: "Rudraprayag"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 740
+  state_name: "Uttarakhand"
+  city: "Tehri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 741
+  state_name: "Uttarakhand"
+  city: "Udham Singh Nagar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 742
+  state_name: "Uttarakhand"
+  city: "Uttarkashi"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 743
+  state_name: "West Bengal"
+  city: "Alipurduar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 744
+  state_name: "West Bengal"
+  city: "Bankura"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 745
+  state_name: "West Bengal"
+  city: "Birbhum"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 746
+  state_name: "West Bengal"
+  city: "Cooch Behar"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 747
+  state_name: "West Bengal"
+  city: "Dakshin Dinajpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 748
+  state_name: "West Bengal"
+  city: "Darjeeling"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 749
+  state_name: "West Bengal"
+  city: "Hooghly"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 750
+  state_name: "West Bengal"
+  city: "Howrah"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 751
+  state_name: "West Bengal"
+  city: "Jalpaiguri"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 752
+  state_name: "West Bengal"
+  city: "Jhargram"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 753
+  state_name: "West Bengal"
+  city: "Kalimpong"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 754
+  state_name: "West Bengal"
+  city: "Kolkata"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 755
+  state_name: "West Bengal"
+  city: "Malda"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 756
+  state_name: "West Bengal"
+  city: "Murshidabad"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 757
+  state_name: "West Bengal"
+  city: "Nadia"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 758
+  state_name: "West Bengal"
+  city: "North 24 Parganas"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 759
+  state_name: "West Bengal"
+  city: "Paschim Bardhaman"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 760
+  state_name: "West Bengal"
+  city: "Paschim Medinipur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 761
+  state_name: "West Bengal"
+  city: "Purba Bardhaman"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 762
+  state_name: "West Bengal"
+  city: "Purba Medinipur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 763
+  state_name: "West Bengal"
+  city: "Purulia"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 764
+  state_name: "West Bengal"
+  city: "South 24 Parganas"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+-
+  id: 765
+  state_name: "West Bengal"
+  city: "Uttar Dinajpur"
+  createdAt: "0000-00-00 00:00:00"
+  updatedAt: "0000-00-00 00:00:00"
+# e-com.locations
+-
+  id: 1
+  location_name: "BTM Layout"
+  distict: "district"
+  city: "Bangalore Rural"
+  landmark: "Udupi garden"
+  description: "test"
+  state: "Karnataka"
+  status: 1
+  createdAt: "2023-07-02 17:18:38"
+  updatedAt: "2023-07-02 17:18:38"
+# e-com.orders
+-
+  id: 1
+  product_id: "1"
+  category_id: "9"
+  sales_person_id: "1"
+  manager_id: "9"
+  store_id: "1"
+  location_id: "1"
+  quantity: "200"
+  status: "Deleiverd"
+  note: "new order"
+  createdAt: "2023-07-02 17:25:27"
+  updatedAt: "2023-07-02 17:26:17"
+-
+  id: 2
+  product_id: "2"
+  category_id: "9"
+  sales_person_id: "3"
+  manager_id: "10"
+  store_id: "2"
+  location_id: "1"
+  quantity: "400"
+  status: "confirmed"
+  note: "from sales 3 for manager 2"
+  createdAt: "2023-07-02 18:10:25"
+  updatedAt: "2023-07-02 18:29:17"
+-
+  id: 3
+  product_id: "1"
+  category_id: "9"
+  sales_person_id: "3"
+  manager_id: "10"
+  store_id: "1"
+  location_id: "1"
+  quantity: "100"
+  status: "placed"
+  note: "new to test today's order"
+  createdAt: "2023-07-02 19:45:32"
+  updatedAt: "2023-07-02 19:45:32"
+-
+  id: 4
+  product_id: "1"
+  category_id: "9"
+  sales_person_id: "3"
+  manager_id: "10"
+  store_id: "1"
+  location_id: "1"
+  quantity: "800"
+  status: "placed"
+  note: "test date"
+  createdAt: "2023-07-03 19:59:47"
+  updatedAt: "2023-07-02 19:59:47"
+# e-com.products
+-
+  id: 1
+  products_name: "prod1"
+  image: "assets\\Images\\1688318067661.jpeg"
+  category_id: 9
+  price: 250
+  description: "pro1 to test"
+  status: 1
+  createdAt: "2023-07-02 17:14:27"
+  updatedAt: "2023-07-02 17:14:27"
+-
+  id: 2
+  products_name: "prod 2"
+  image: "assets\\Images\\1688318089562.jpeg"
+  category_id: 9
+  price: 300
+  description: "prod2"
+  status: 1
+  createdAt: "2023-07-02 17:14:49"
+  updatedAt: "2023-07-02 17:14:49"
+# e-com.salespeople
+-
+  id: 1
+  firstName: "salesPerson1"
+  lastName: "LastName"
+  location_id: "1"
+  areaManager_id: "9"
+  phone: "2232288977"
+  email: "sales1@gmail.com"
+  password: "$2b$10$HPnwQrrGEXZqzRT8yVSOIOo6O6MC1X6KK9kc6zc1IrTGho21mvmYy"
+  description: "test"
+  status: "true"
+  createdAt: "2023-07-02 17:21:39"
+  updatedAt: "2023-07-02 17:21:39"
+  online: "1"
+-
+  id: 2
+  firstName: "sales2"
+  lastName: "lastname"
+  location_id: "1"
+  areaManager_id: "9"
+  phone: "8876655688"
+  email: "sales2@gmail.com"
+  password: "$2b$10$cYtPhSz02L5iv5jM41gZSOvOa4Dp8oyWt0MxFmuujf/iD3wEXeUt6"
+  description: "from manager 1"
+  status: "true"
+  createdAt: "2023-07-02 17:28:03"
+  updatedAt: "2023-07-02 17:28:03"
+  online: "1"
+-
+  id: 3
+  firstName: "sale3"
+  lastName: "lastname"
+  location_id: "1"
+  areaManager_id: "10"
+  phone: "8892266822"
+  email: "sale3@gmail.com"
+  password: "$2b$10$1LdAJU7leWXyM5pToZU/BOEfYOYl2oHqhBJEOV4.PRQzw8dpHvi/W"
+  description: "from manager 2"
+  status: "true"
+  createdAt: "2023-07-02 17:42:51"
+  updatedAt: "2023-07-02 17:42:51"
+  online: "1"
+# e-com.stores
+-
+  id: 1
+  store_name: "store1"
+  location_id: 1
+  store_owner_name: "store owner"
+  store_owner_phone: "2233443444"
+  store_owner_email: "store1@gmail.com"
+  sales_person_id: 1
+  description: "test"
+  status: "true"
+  createdAt: "2023-07-02 17:24:54"
+  updatedAt: "2023-07-02 17:24:54"
+-
+  id: 2
+  store_name: "stroe2"
+  location_id: 1
+  store_owner_name: "store2 owner name"
+  store_owner_phone: "898876653"
+  store_owner_email: "store2@gmail.com"
+  sales_person_id: 2
+  description: "from manager 1"
+  status: "true"
+  createdAt: "2023-07-02 17:29:37"
+  updatedAt: "2023-07-02 17:29:37"
+-
+  id: 3
+  store_name: "tetst"
+  location_id: 1
+  store_owner_name: "test"
+  store_owner_phone: "prod 1 update"
+  store_owner_email: "cat 1"
+  sales_person_id: 1
+  description: "test"
+  status: "false"
+  createdAt: "2023-07-02 20:23:44"
+  updatedAt: "2023-07-02 20:23:44"
+# e-com.users
+-
+  id: 3
+  firstName: "vikas"
+  LastName: "tu"
+  Emailid: "vikas@gmail.com"
+  password: "$2b$10$5ERyWPQ/3h7KRrDVFqGdLOUWDfk9V4.qSw.Bz1gXq0kiKZvix5jQu"
+  type: "ADMIN"
+  location_id: ""
+  phone: ""
+  description: ""
+  status: 1
+  createdAt: "2023-06-29 21:11:04"
+  updatedAt: "2023-06-29 21:11:04"
+-
+  id: 9
+  firstName: "Manager1"
+  LastName: "lastName"
+  Emailid: "manager@gmail.com"
+  password: "$2b$10$Im4ZSa4OuIPV9V0xtM9or.hPlxpu5dto0Zt4YjEmQsM1EBjtBOiP2"
+  type: "MANAGER"
+  location_id: "1"
+  phone: "1128899288"
+  description: "test"
+  status: 1
+  createdAt: "2023-07-02 17:19:20"
+  updatedAt: "2023-07-02 17:19:20"
+-
+  id: 10
+  firstName: "manager2"
+  LastName: "lastname"
+  Emailid: "manager2@gmail.com"
+  password: "$2b$10$Q3xHgE0blVlKC2jOwzYvvOpB2H6DmAF/w1nXK1KeibsZlS1WoY86e"
+  type: "MANAGER"
+  location_id: "1"
+  phone: "7765544566"
+  description: "from super admin"
+  status: 1
+  createdAt: "2023-07-02 17:31:40"
+  updatedAt: "2023-07-02 17:31:40"
+...

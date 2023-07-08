@@ -1,27 +1,20 @@
 module.exports = (sequelize,DataTypes) => {
-    const Category = sequelize.define("Category",{
-        category_name : {
+    const City = sequelize.define("City",{
+        state_name : {
             type : DataTypes.STRING,
             allowNull:false,
             validate:{
                 notEmpty:true
             }
         },
-        image : {
+        city : {
             type : DataTypes.STRING,
             validate:{
                 notEmpty:true
             }
-        },
-        status : {
-            type : DataTypes.BOOLEAN,
-            allowNull:false,
-            validate:{
-                notEmpty:true
-            }
-        },
+        }
 
     })
 
-    return Category;
+    return City;
 }

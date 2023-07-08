@@ -40,4 +40,106 @@ Object.keys(db).forEach(modelName => {
 db.sequelize = sequelize;
 db.Sequelize = Sequelize;
 
+
+db.Location.hasMany(
+  db.Store,{
+    foreignKey:"location_id"
+  }
+)
+
+db.Store.belongsTo(db.Location,{
+  foreignKey:"location_id"
+})
+
+db.Category.hasMany(
+  db.Products,{
+    foreignKey:'category_id'
+  }
+)
+
+db.Products.belongsTo(
+  db.Category,{
+    foreignKey:'category_id'
+  }
+)
+
+// -----------------------
+
+db.SalesPerson.hasMany(
+  db.Store,{
+    foreignKey:"sales_person_id"
+  }
+)
+
+
+db.Store.belongsTo(db.SalesPerson,{
+  foreignKey:"sales_person_id"
+})
+
+
+// ----------------------
+
+db.Store.hasMany(
+  db.Orders,{
+    foreignKey:"store_id"
+  }
+)
+
+db.Orders.belongsTo(db.Store,{
+  foreignKey:"store_id"
+})
+
+
+db.Products.hasMany(
+  db.Orders,{
+    foreignKey:"product_id"
+  }
+)
+
+db.Orders.belongsTo(db.Products,{
+  foreignKey:"product_id"
+})
+
+db.SalesPerson.hasMany(
+  db.Orders,{
+    foreignKey:"sales_person_id"
+  }
+)
+
+db.Orders.belongsTo(db.SalesPerson,{
+  foreignKey:"sales_person_id"
+})
+
+
+db.User.hasMany(
+  db.Orders,{
+    foreignKey:"manager_id"
+  }
+)
+
+db.Orders.belongsTo(db.User,{
+  foreignKey:"manager_id"
+})
+
+
+db.Category.hasMany(
+  db.Orders,{
+    foreignKey:"category_id"
+  }
+)
+
+db.Orders.belongsTo(db.Category,{
+  foreignKey:"category_id"
+})
+
+db.Location.hasMany(
+  db.Orders,{
+    foreignKey:"location_id"
+  }
+)
+
+db.Orders.belongsTo(db.Location,{
+  foreignKey:"location_id"
+})
+
 module.exports = db;

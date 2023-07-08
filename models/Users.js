@@ -32,7 +32,23 @@ module.exports = (sequelize,DataTypes) => {
             validate:{
                 notEmpty:true
             }
-        }
+        },
+        location_id : {
+            type : DataTypes.STRING,
+        },
+        phone : {
+            type : DataTypes.STRING,
+        },
+        description : {
+            type : DataTypes.STRING,
+        },
+        status : {
+            type : DataTypes.BOOLEAN,
+            allowNull:false,
+            validate:{
+                notEmpty:true
+            }
+        },
     })
 
     return User;
